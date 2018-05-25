@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="campaign" size="0.235000 0.132188" />
+    <ImageTarget name="otago" size="0.235000 0.118205" />
+    <ImageTarget name="nzx" size="0.235000 0.110972" />
+  </Tracking>
+</QCARConfig>

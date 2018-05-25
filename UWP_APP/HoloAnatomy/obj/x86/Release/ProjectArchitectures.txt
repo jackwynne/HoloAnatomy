@@ -1,0 +1,2 @@
+C:\_UnityProjects\HoloAnatomy\UWP_APP\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\_UnityProjects\HoloAnatomy\UWP_APP\HoloAnatomy\HoloAnatomy.csproj;x86

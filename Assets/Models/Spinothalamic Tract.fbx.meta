@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 8b4f261c8bda30d49801642fbfc5a1fb
+timeCreated: 1524173893
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: reference_1o3KtMxzMgk_0_0
+    100002: reference_1RpZ2g1XZeF_0_0
+    100004: reference_9iGkPyqFXhN_0_0
+    100006: reference_d2T7GGI33VK_0_0
+    100008: reference_enHQsG36sgI_0_0
+    100010: reference_enHQsG36sgI_0_0 1
+    100012: reference_enHQsG36sgI_0_0 2
+    100014: //RootNode
+    100016: Untitled_6_DoubleTaperedMarker_geo
+    100018: Untitled_6_Fire_geo
+    100020: Untitled_6_mia_material_x_passes_layer3SG_geo
+    100022: Untitled_6_mia_material_x_passes_layer4SG_geo
+    100024: Untitled_6_mia_material_x_passes_layer5SG_geo
+    100026: Untitled_6_mia_material_x_passes_layer5SG_geo 1
+    100028: Untitled_6_mia_material_x_passes_layer5SG_geo 2
+    100030: Untitled_6_mia_material_x_passes_layer7SG_geo
+    100032: Untitled_6_mia_material_x_passes_layer8_BSG_geo
+    100034: Untitled_6_NeonPulse_geo
+    100036: Untitled_6_Toon_geo
+    100038: Untitled_6_Wire_geo
+    400000: reference_1o3KtMxzMgk_0_0
+    400002: reference_1RpZ2g1XZeF_0_0
+    400004: reference_9iGkPyqFXhN_0_0
+    400006: reference_d2T7GGI33VK_0_0
+    400008: reference_enHQsG36sgI_0_0
+    400010: reference_enHQsG36sgI_0_0 1
+    400012: reference_enHQsG36sgI_0_0 2
+    400014: //RootNode
+    400016: Untitled_6_DoubleTaperedMarker_geo
+    400018: Untitled_6_Fire_geo
+    400020: Untitled_6_mia_material_x_passes_layer3SG_geo
+    400022: Untitled_6_mia_material_x_passes_layer4SG_geo
+    400024: Untitled_6_mia_material_x_passes_layer5SG_geo
+    400026: Untitled_6_mia_material_x_passes_layer5SG_geo 1
+    400028: Untitled_6_mia_material_x_passes_layer5SG_geo 2
+    400030: Untitled_6_mia_material_x_passes_layer7SG_geo
+    400032: Untitled_6_mia_material_x_passes_layer8_BSG_geo
+    400034: Untitled_6_NeonPulse_geo
+    400036: Untitled_6_Toon_geo
+    400038: Untitled_6_Wire_geo
+    2100000: 0eac9f21dc3b49209d13e12b850d8dfb_mia_material_x_passes_layer8_BSG
+    2100002: 80277c24add047ec986d11ee23c74c75_mia_material_x_passes_layer7SG
+    2100004: b33b15a55ddd4be086c76c01d9bda6c5_mia_material_x_passes_layer4SG
+    2100006: 75cfc46766f140b19577d0fd8c799104_mia_material_x_passes_layer3SG
+    2100008: b71ca8c1c3684ff1ac9378042d0807f1_mia_material_x_passes_layer5SG
+    2300000: Untitled_6_DoubleTaperedMarker_geo
+    2300002: Untitled_6_Fire_geo
+    2300004: Untitled_6_mia_material_x_passes_layer3SG_geo
+    2300006: Untitled_6_mia_material_x_passes_layer4SG_geo
+    2300008: Untitled_6_mia_material_x_passes_layer5SG_geo
+    2300010: Untitled_6_mia_material_x_passes_layer5SG_geo 1
+    2300012: Untitled_6_mia_material_x_passes_layer5SG_geo 2
+    2300014: Untitled_6_mia_material_x_passes_layer7SG_geo
+    2300016: Untitled_6_mia_material_x_passes_layer8_BSG_geo
+    2300018: Untitled_6_NeonPulse_geo
+    2300020: Untitled_6_Toon_geo
+    2300022: Untitled_6_Wire_geo
+    3300000: Untitled_6_DoubleTaperedMarker_geo
+    3300002: Untitled_6_Fire_geo
+    3300004: Untitled_6_mia_material_x_passes_layer3SG_geo
+    3300006: Untitled_6_mia_material_x_passes_layer4SG_geo
+    3300008: Untitled_6_mia_material_x_passes_layer5SG_geo
+    3300010: Untitled_6_mia_material_x_passes_layer5SG_geo 1
+    3300012: Untitled_6_mia_material_x_passes_layer5SG_geo 2
+    3300014: Untitled_6_mia_material_x_passes_layer7SG_geo
+    3300016: Untitled_6_mia_material_x_passes_layer8_BSG_geo
+    3300018: Untitled_6_NeonPulse_geo
+    3300020: Untitled_6_Toon_geo
+    3300022: Untitled_6_Wire_geo
+    4300000: Untitled_6_Toon_geo
+    4300002: Untitled_6_Wire_geo
+    4300004: Untitled_6_Fire_geo
+    4300006: Untitled_6_NeonPulse_geo
+    4300008: Untitled_6_DoubleTaperedMarker_geo
+    4300010: Untitled_6_mia_material_x_passes_layer8_BSG_geo
+    4300012: Untitled_6_mia_material_x_passes_layer7SG_geo
+    4300014: Untitled_6_mia_material_x_passes_layer4SG_geo
+    4300016: Untitled_6_mia_material_x_passes_layer3SG_geo
+    4300018: Untitled_6_mia_material_x_passes_layer5SG_geo
+    4300020: Untitled_6_mia_material_x_passes_layer5SG_geo
+    4300022: Untitled_6_mia_material_x_passes_layer5SG_geo
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
